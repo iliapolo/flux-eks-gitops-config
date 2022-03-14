@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "kubernetes://schema/networking.k8s.io/v1%40networkpolicy": "file:///Users/duektsah/dev/flux-eks-gitops-config-iliapolo/dist/hello.k8s.yaml"
+    }
+}
